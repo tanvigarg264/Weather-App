@@ -9,7 +9,7 @@
 
 /* eslint-disable react/prop-types */
 import React, { useEffect, useState } from 'react'
-import { useDate } from '../utils/usedate'
+import { useDate } from '../utils/useDate'
 import sun from '../assets/icons/sun.png'
 import cloud from '../assets/icons/cloud.png'
 import fog from '../assets/icons/fog.png'
